@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord-giveaways": "^4.5.1",
+    "discord.js": "^12.5.3",
+    "ms": "^2.1.3"
+  }
+}
